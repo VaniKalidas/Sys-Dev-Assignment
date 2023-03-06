@@ -1,0 +1,11 @@
+Felix - 720040396
+Neha - 
+Ranjeet - 720080606
+Sam - 720086996
+Sophie - 720089859
+Thrilokesh - 720090771
+Vani - 720091472
+
+I've written the names in CAPS so its easier to replace them with candidate numbers
+
+To get things started, we discussed the brief that was given and components of the work that we would get done. We talked about our level of proficiency with coding in python and the roles we would prefer to take on. As a result, some people chose the responsibility of the report writting tasks while others where responsible with the coding. For the business reports, SAM wrote the SQL one, NEHA and SOPHIE both worked on the user interface/ usability report and the deployment options report. Given it would be useful to have a developer's insight for the deployment options report THRILOKESH volunteered to help out if assistance was needed. For the coding, VANI took on the login screen GUI and the python script giving functionality to the login screen. The stock category list and the stock item list were completed by RANJEET. The python script connecting the sql server and the executable file was taken on by THRILOKESH and FELIX. The project management report was completed by VANI. We decided that by a week (13/03), we should have completed this project management report, the SQL injection business report and the login screens. In two weeks (20/03) we would have completed the stock categories, stock list and the UI business report. After that week (27/03) we would have the deployment options report complete as well as the python files for a sql server connection and the executable file.
