@@ -1,8 +1,8 @@
 class dbinfo :
     database = 'nfhcw2'
-    localhost = 'WIN10-2020\SQLEXPRESS' # may need to change
-    server = 'WIN10-2020\SQLEXPRESS' # may need to change
-    remoteserver = 'WIN10-2020\SQLEXPRESS' # may need to change
+    localhost = 'DESKTOP-JKLT1OR\SQLEXPRESS' # may need to change
+    server = 'DESKTOP-JKLT1OR\SQLEXPRESS' # may need to change
+    remoteserver = 'DESKTOP-JKLT1OR\SQLEXPRESS' # may need to change
     username = 'nfhuser'
     password = 'nfhuserpwd'
     adminuser = 'nfhtest'
